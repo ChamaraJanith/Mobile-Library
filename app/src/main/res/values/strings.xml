@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BookNest_Mobile_Library</string>
+    <string name="app_name">BookNest</string>
+    <string name="discover_clubs">Discover Clubs</string>
+    <string name="my_clubs">My Clubs</string>
+    <string name="profile">Profile</string>
+    <string name="online_library">Online Library</string>
+    <string name="discover_book_clubs">Discover Book Clubs</string>
+    <string name="my_book_clubs">My Book Clubs</string>
+    <string name="joined_fantasy">Joined Fantasy Readers United!</string>
+    <string name="joined_mystery">Joined Mystery Book Club!</string>
+    <string name="joined_classic">Joined Classic Literature Society!</string>
 </resources>
